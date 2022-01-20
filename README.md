@@ -23,7 +23,7 @@ Correcting mistakes.
 
 ### abstract
 
-This is one of solutions based on the composer's manuscript of bwv1007-1012.
+This is one of solutions based on the A.M.Bach's manuscript of bwv1007-1012.
 
 ### history
 
