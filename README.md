@@ -16,7 +16,7 @@ Correcting mistakes.
 - p.12-l.1
 
 2022/01/03<br>
-Correcting mistakes.
+Adding specifications for unambiguity.
 - p.41-l.10
 
 ## bwv1007-1012.docx
