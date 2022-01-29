@@ -8,18 +8,18 @@ This is one of solutions based on the composer's manuscript of bwv1001-1006.
 
 ### history
 
-2021/12/10<br>
+2021-12-10+0900<br>
 Completion of 1st version.
 
-2021/12/19<br>
+2021-12-19+0900<br>
 Correcting mistakes.
 - p.12-l.1
 
-2022/01/03<br>
+2022-01-03+0900<br>
 Adding specifications for unambiguity.
 - p.41-l.10
 
-2022/01/30<br>
+2022-01-30+0900<br>
 Adding specifications for unambiguity.
 - p.32-l.10
 
