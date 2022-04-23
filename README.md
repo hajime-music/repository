@@ -47,6 +47,10 @@ Adding specifications for unambiguity.
 Adding specifications for unambiguity.
 - p.28-l.7
 
+2022-04-23+0900<br>
+Adding specifications for unambiguity.
+- p.28-l.2
+
 ## bwv1007-1012.docx
 
 ### abstract
