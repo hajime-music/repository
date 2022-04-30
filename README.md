@@ -55,6 +55,10 @@ Adding specifications for unambiguity.
 Correcting mistakes.
 - p.12-l.1
 
+2022-04-30+0900<br>
+Correcting mistakes.
+- p.23-l.2
+
 ## bwv1007-1012.docx
 
 ### abstract
