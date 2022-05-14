@@ -4,7 +4,7 @@
 
 ### abstract
 
-This is one of solutions based on the composer's manuscript of bwv1001-1006.
+This is one of the solutions based on the composer's manuscript of bwv1001-1006.
 
 ### history
 
@@ -63,7 +63,7 @@ Correcting mistakes.
 
 ### abstract
 
-This is one of solutions based on the A.M.Bach's manuscript of bwv1007-1012.
+This is one of the solutions based on the A.M.Bach's manuscript of bwv1007-1012.
 
 ### history
 
