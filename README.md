@@ -61,7 +61,7 @@ Correcting mistakes.
 
 2022-06-11+0900<br>
 Adding specifications for unambiguity.
-- p.18-l.7
+- p.18-l.7,l.9
 
 ## bwv1007-1012.docx
 
