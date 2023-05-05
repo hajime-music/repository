@@ -77,7 +77,7 @@ Adding specifications for unambiguity.
 
 This is one of the solutions based on the A.M.Bach's manuscript of bwv1007-1012.
 
-Using a cloth is useful for underhand grip.
+Using a cloth is helpful for underhand grip.
 
 ### history
 
