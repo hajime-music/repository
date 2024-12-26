@@ -81,4 +81,5 @@ Using a cloth is helpful for underhand grip.
 
 ### history
 
-Under Editing.
+2024-12-26+0900<br>
+Completion of 1st version.
