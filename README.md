@@ -83,3 +83,7 @@ Using a cloth is helpful for underhand grip.
 
 2024-12-26+0900<br>
 Completion of 1st version.
+
+2024-12-28+0900<br>
+Modifications for uniformity of notation.
+- p.2-l.5
