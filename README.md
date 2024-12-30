@@ -87,3 +87,7 @@ Completion of 1st version.
 2024-12-28+0900<br>
 Modifications for uniformity of notation.
 - p.2-l.5
+
+2024-12-30+0900<br>
+Correcting mistakes.
+- p.33-l.2
