@@ -71,6 +71,11 @@ Adding specifications for unambiguity.
 Adding specifications for unambiguity.
 - p.12-l.7
 
+2024-12-31+0900<br>
+Modifications for uniformity of notation.
+- p.5-l.9,l.10
+- p.6-l.1,l.4,l.11
+
 ## bwv1007-1012.docx
 
 ### abstract
