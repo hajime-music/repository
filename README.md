@@ -76,6 +76,10 @@ Modifications for uniformity of notation.
 - p.5-l.9,l.10
 - p.6-l.1,l.4,l.11
 
+2025-01-05+0900<br>
+Correcting mistakes.
+- p.6-l.1
+
 ## bwv1007-1012.docx
 
 ### abstract
