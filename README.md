@@ -100,3 +100,7 @@ Modifications for uniformity of notation.
 2024-12-30+0900<br>
 Correcting mistakes.
 - p.33-l.2
+
+2025-01-20+0900<br>
+Correcting mistakes.
+- p.8-l.2
