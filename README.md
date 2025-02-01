@@ -80,6 +80,10 @@ Modifications for uniformity of notation.
 Correcting mistakes.
 - p.6-l.1
 
+2025-02-01+0900<br>
+Modifications for uniformity of notation.
+- p.2-l.10
+
 ## bwv1007-1012.docx
 
 ### abstract
