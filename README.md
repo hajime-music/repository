@@ -108,3 +108,7 @@ Correcting mistakes.
 2025-01-20+0900<br>
 Correcting mistakes.
 - p.8-l.2
+
+2025-02-19+0900<br>
+Modifications for uniformity of notation.
+- p.14-l.8
