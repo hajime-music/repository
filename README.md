@@ -112,3 +112,7 @@ Correcting mistakes.
 2025-02-19+0900<br>
 Modifications for uniformity of notation.
 - p.14-l.8
+
+2025-02-20+0900<br>
+Modifications for uniformity of notation.
+- p.15-l.7
