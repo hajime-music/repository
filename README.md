@@ -116,3 +116,7 @@ Modifications for uniformity of notation.
 2025-02-20+0900<br>
 Modifications for uniformity of notation.
 - p.15-l.7
+
+2025-02-26+0900<br>
+Modifications for uniformity of notation.
+- p.19-l.5,l.8
