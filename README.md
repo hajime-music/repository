@@ -88,6 +88,10 @@ Modifications for uniformity of notation.
 Modifications for uniformity of notation.
 - p.27-l.4,l.12
 
+2025-05-08+0900<br>
+Modifications for uniformity of notation.
+- p.41-l.6
+
 ## bwv1007-1012.docx
 
 ### abstract
