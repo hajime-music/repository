@@ -92,6 +92,11 @@ Modifications for uniformity of notation.
 Modifications for uniformity of notation.
 - p.41-l.6
 
+2025-05-19+0900<br>
+Adding specifications for unambiguity.
+- p.23-l.5
+- p.41-l.1
+
 ## bwv1007-1012.docx
 
 ### abstract
