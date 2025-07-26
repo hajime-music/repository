@@ -141,3 +141,7 @@ Adding specifications for unambiguity.
 2025-03-17+0900<br>
 Correcting mistakes.
 - p.4-l.10
+
+2025-07-26+0900<br>
+Adding specifications for unambiguity.
+- p.8-l.1
