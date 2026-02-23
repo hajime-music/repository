@@ -145,3 +145,11 @@ Correcting mistakes.
 2025-07-26+0900<br>
 Adding specifications for unambiguity.
 - p.8-l.1
+
+2026-02-23+0900<br>
+Correcting mistakes.
+- p.11-l.5,l-10
+- p.12-l.1,l-8
+- p.13-l.4
+- p.15-l.6,l.9,l-10
+- p.16-l.12
