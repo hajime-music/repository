@@ -157,4 +157,7 @@ Correcting mistakes.
 2026-02-24+0900<br>
 Correcting mistakes.
 - p.2-l.9
+- p.10-l.12
+- p.18-l.12
+- p.19-l.1
 - p.33-l.4
