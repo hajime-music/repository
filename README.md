@@ -220,3 +220,8 @@ Correcting mistakes.
 2026-03-16+0900<br>
 Correcting mistakes.
 - p.34-l.5,l.8,l.9,l.10
+
+2026-03-17+0900<br>
+Correcting mistakes.
+- p.34-l.12
+- p.35-l.5,l.6
